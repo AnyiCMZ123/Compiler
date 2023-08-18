@@ -47,3 +47,6 @@ You can use the Python pip install package as follows:
 
 ``` python -m pip install requests ```
 
+### Design
+I developed the "Node" class to represent the AST and designed functions for lexical, syntactic, and semantic analysis and intermediate code generation. I emphasized encapsulation and abstraction to create a modular and maintainable design.
+
