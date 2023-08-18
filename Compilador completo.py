@@ -1,10 +1,8 @@
 # Compilador 
-# Alumnos
+# Alumno
 # Castillo Martinez Angela Belen
-# Gómez Reyes Cristian Gabriel
 # Materia: COMPILADORES
 # Profesor: Dr. Luis Efrén Veloz Ortiz
-# Grupo: 5CM24
 #Primera entrega: 25/04/2023
 # Fecha de entregra final: 16/06/2023
 
